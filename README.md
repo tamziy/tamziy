@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tam from Chicago<br><br>- 🔭 I’m a student at the University of Illinois at Chicago<br>- 📚 I'm currently learning React and AWS<br>- ⚡ In my free time I develop and play games</p>
+<p align="left">I'm Tam from Chicago<br><br>- 🔭 I’m a student at the University of Illinois at Chicago<br>- 🌐 Check Out My [Project Portfolio](tamziy.com)<br>- 📚 I'm currently learning React and AWS<br>- ⚡ In my free time I develop and play games</p>
 
 ###
 
