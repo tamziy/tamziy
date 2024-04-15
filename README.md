@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tamziy/tamziy/output/snake.svg" alt="Snake animation" />
+## <img src="https://raw.githubusercontent.com/tamziy/tamziy/output/snake.svg" alt="Snake animation" />
 
 ###
